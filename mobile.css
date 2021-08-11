@@ -1,0 +1,30 @@
+.box{
+    flex-direction: column;
+}
+.ankit{
+    /* overflow: hidden; */
+    flex-wrap: wrap;
+}
+#home{
+    height: 203px;
+}
+.heading2{
+    margin: 225px 0px 34px 0px;
+}
+#home p{
+    padding: 6px 9px;
+    margin: 31px 0px -27px 0px;
+}
+.btn{
+    margin: 100px 2px -240px 4px;
+}
+#ull{
+    padding: 8px
+}
+ul li a{
+    font-size: 19px;
+    padding:11px
+}
+.heading{
+    font-size: 41px;
+}

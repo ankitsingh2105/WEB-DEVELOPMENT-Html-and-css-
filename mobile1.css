@@ -1,0 +1,31 @@
+ul li a{
+    font-size: 16px;
+    padding: 9px;
+}
+#bar{
+    flex-direction: column;
+}
+#home{
+    height: 288px;
+}
+.btn {
+    margin: 35px 2px -240px 4px;
+}
+#home p {
+    font-size: 16px;
+}
+.heading{
+    font-size: 25px;
+}
+.heading2{
+    font-size: 31px;
+}
+.free{
+    font-size: 28px;
+}
+.sponser-text{
+    font-size: 32px;
+}
+#h-primary-centeer{
+    font-size: 32px;
+}
